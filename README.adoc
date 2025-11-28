@@ -1,0 +1,10 @@
+= Verndar
+
+This is my personal pick on how a personal finance management system should look like.
+
+== Technologies used
+
+* PostgreSQL -- I like it, I need and want to learn it, and it makes it easy to use either local or remote DB
+* Qt -- quite a good GUI framework, and I _don't_ want any JavaScript here
+* PySide6 -- at least for now, the GUI is in Python -- I need to get it up & running as quick as possible
+* Python -- seems like a good scripting choice... but I'm considering Lua as well...
