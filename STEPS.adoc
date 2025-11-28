@@ -1,0 +1,17 @@
+l/=, Developing the thing
+
+. Load data from banking account into the DB
+.. Specify DB connection, test it
+.. Specify data directory
+.. Load the data into DB
+... including schema & table existence check 
+
+== TODOs
+
+* Use enums for `ib_imports` where suitable - instead of `varchar`
+
+== Wonderings
+
+* How are users managed in Postgre?
+** Seemed like revoking connect didn't work...
+* How is the `psql` tool used?
